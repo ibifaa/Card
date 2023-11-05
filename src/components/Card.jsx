@@ -21,7 +21,7 @@ export const Card= ()=> {
         <p className='w-[80%] mt-2 text-gray-600'>Passionate Frontend Developer that is creating beautiful and responsive Website using React, JavaScript, CSS, tailwind and HTML</p>
        
        <div>
-       <a className='bg-cyan-600 p-2 inline-block  uppercase rounded-[5px] w-[120px]  shadow-lg text-center mt-5 text-white text-lg'>Hire me</a>
+       <a className='bg-cyan-600 p-2 inline-block uppercase rounded-[5px] w-[120px] tracking-wider shadow-lg text-center mt-5 text-white text-lg'>Hire me</a>
         </div>
         </div>
 
