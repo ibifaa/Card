@@ -1,5 +1,5 @@
 
-import bgImage from '/src/assets/background-img 1.jpg'
+import bgImage from '/public/background-img 1.jpg'
 
 export const Card= ()=> {
   return (
