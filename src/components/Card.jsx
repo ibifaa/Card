@@ -1,4 +1,3 @@
-import React from 'react'
 
 import bgImage from '/src/assets/background-img 1.jpg'
 
@@ -15,7 +14,7 @@ export const Card= ()=> {
 
         </div>
         <div className="card-mg  items-center justify-center" >
-        <img className=' flex justify-center items-center h-[250px] w-[80%] mt-5 rounded-xl shadow-xl' src="{bgImage}" alt="image of computer " />
+        <img className=' flex justify-center items-center h-[250px] w-[80%] mt-5 rounded-xl shadow-xl' src = {bgImage} alt="image of computer " />
         <h1 className='text-xl mt-5 font-medium'>Freelance Frontend Developer</h1>
         <h2 className='text-cyan-600'>Working from the comfort of home </h2>
         
