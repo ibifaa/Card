@@ -6,5 +6,29 @@
 
 @tailwind base;
 @tailwind components;
+
+.btn {
+  @apply  inline-block uppercase  w-[120px] 
+  text-center mt-5  text-center  text-white text-lg lg:mt-10 rounded-[5px]
+   w-[200px]  text-xl px-2 py-4 
+}
+
+.btn-primary{
+  @apply bg-cyan-600 hover:bg-cyan-700 hover:-translate-y-2 transform transition
+   focus:outline-none focus:ring focus:ring-offset-2 focus:ring-cyan-600 shadow-lg focus:ring-opacity-50
+   active:bg-cyan-900
+}
+
+.btn-secondary{
+  @apply bg-slate-600 
+   focus:outline-none focus:ring focus:ring-offset-2 focus:ring-cyan-600 shadow-lg focus:ring-opacity-50
+   active:bg-slate-700
+}
+
 @tailwind utilities;
+
+
+
+
+
 

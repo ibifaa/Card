@@ -1,14 +1,13 @@
-import { Card } from "./components/Card"
-
+import { Card } from "./components/Card";
+// import { Products } from "./components/Products";
 
 function App() {
- 
-
   return (
-    
-        <Card />
- 
-  )
+    <div>
+      <Card />
+      {/* <Products /> */}
+    </div>
+  );
 }
 
-export default App
+export default App;
