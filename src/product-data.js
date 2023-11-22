@@ -4,7 +4,8 @@ export default[
         price: "120",
         count: 76,
         imageUrl:"/image-gaming-growth.jpg",
-        imageAlt: "game"
+        imageAlt: "game",
+        description: "How the pendemic has sparked fresh opportunities"
 
     },
 
@@ -13,13 +14,15 @@ export default[
         price: "240",
         count: 90,
         imageUrl:"/image-retro-pcs.jpg",
-        imageAlt: "pc"
+        imageAlt: "pc",
+        description: "How the pendemic has sparked fresh opportunities"
     },
 
     {
         product: "Laptops",
         price: "300",
         count:  "250",
-        imageUrl: "/image-top-laptops.jpg"
+        imageUrl: "/image-top-laptops.jpg",
+        description: "How the pendemic has sparked fresh opportunities"
     }
 ]

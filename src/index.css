@@ -7,6 +7,14 @@
 @tailwind base;
 @tailwind components;
 
+.brand{
+  @apply mt-5 p-5
+}
+
+.myP{
+  @apply p-10
+}
+
 .btn {
   @apply  inline-block uppercase  w-[120px] 
   text-center mt-5  text-center  text-white text-lg lg:mt-10 rounded-[5px]
